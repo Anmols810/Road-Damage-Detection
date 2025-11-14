@@ -7,3 +7,5 @@ python api_server.py
 
 2nd Terminal:
 npm run dev
+
+Now ctrl+click on the link in 2nd Terminal
